@@ -16,7 +16,7 @@ The dashboard provides real-time performance metrics during an active snow event
 ### Event Details
 The top portion of the dashboard shows key event information (Event Name, Event Start Date, End Date, Duration, Average Temperature, Precipitation).
 
-![Dashboard](/images/img/dashboard.png)
+![Dashboard](/primeplow-help/images/img/dashboard.png)
 
 ### Event Statistics
 This table and chart displays percent complete by priority and a break down of treatment (in miles) over several recent time frames (last hour, 3 hours, and since the beginning of the event).
@@ -24,7 +24,7 @@ This table and chart displays percent complete by priority and a break down of t
 ### Event Trends
 This chart shows how percent complete has changed over time. This allows you to measure your average cycle time for each priority (i.e. typically three hours of work will result in 50% of priority 1 streets receiving treatment).
 
-![Event Trends](/images/img/eventtrends.png)
+![Event Trends](/primeplow-help/images/img/eventtrends.png)
 Each line represents a priority, clicking on the line will show the percent complete recorded at that moment in time.
 
 ### Current Activity
@@ -33,22 +33,22 @@ This table displays many vehicles in your fleet have their ignition on and how m
 ### Vehicles By Priority
 This table shows what priority your vehicles are currently deployed on.
 
-![Vehicles By Priority](/images/img/vehbypriority.png)
+![Vehicles By Priority](/primeplow-help/images/img/vehbypriority.png)
 
 ### Last Vehicle Message
 This is a simple table that updates whenever a new vehicle breadcrumb is received by the system. You can sort the table by each of the columns. The first column (gear) will highlight blue and spin when a recent breadcrumb message is received. Please note this only loads messages received after the dashboard is opened.
 
-![Last Vehicle Message](/images/img/lastvehiclemessage.png)
+![Last Vehicle Message](/primeplow-help/images/img/lastvehiclemessage.png)
 
 ### Weather
 An hourly and daily weather forecast is provided by Dark Sky. You can click on the Powered by Dark Sky link to visit [darksky.com](http://darksky.com/) for more weather details.
 
-![Weather](/images/img/weather.png)
+![Weather](/primeplow-help/images/img/weather.png)
 
 ### Routes
 This table shows the current number of passes, and the total number of passes performed on each route during the selected snow event.
 
-![Routes](/images/img/routes.png)
+![Routes](/primeplow-help/images/img/routes.png)
 
 * * *
 
@@ -62,11 +62,11 @@ Starting an event will impact the internal map, the internal dashboard, and the 
 * **Dashboard:** After an event is started the dashboard will start calculating statistics. The statistics shown are specific to the snow event.
 * **Public Site:** After an event is started the “treatment” view displayed in the public application will begin showing treatment information.
 
-![Event Start](/images/img/Event_Start.gif)
+![Event Start](/primeplow-help/images/img/Event_Start.gif)
 
 ### Event Updates
 Event updates provide a way to document the snow removal process during an active snow event.
-![Event Updates](/images/img/eventupdates.png)
+![Event Updates](/primeplow-help/images/img/eventupdates.png)
 ### End Event
 Starting an event will impact the internal map, the internal dashboard, and the public application.
 
@@ -80,7 +80,7 @@ Starting an event will impact the internal map, the internal dashboard, and the 
 
 The vehicle management interface provides a list of all vehicles to be displayed within Prime Plow. Filter tools are available to find a specific vehicle in your fleet.
 
-![Vehicles](/images/img/vehicles.png)
+![Vehicles](/primeplow-help/images/img/vehicles.png)
 
 ### Add Vehicle
 Use this tool to add new vehicles to your fleet. Please note your VIN must match the VIN registered with Networkfleet.
@@ -105,7 +105,7 @@ The message management page gives your organization control over the messages di
 1. **Static Messages:** These messages appear on the right side panel of the public application. These are intended to be used for more permanent messages that provide general information.
 2. **Scrolling Messages:** These messages scroll across the public map and are intended to be updated frequently to provide the public with up to date status messages about each snow event.
 
-![Scrolling Messages](/images/img/scrolling-messages.png)
+![Scrolling Messages](/primeplow-help/images/img/scrolling-messages.png)
 
 The following functions are available for both static and scrolling messages:
 
@@ -120,7 +120,7 @@ The following functions are available for both static and scrolling messages:
 
 ## Account
 
-![Account](/images/img/account.png)
+![Account](/primeplow-help/images/img/account.png)
 
 The top right of the menu bar provides an account management tool. The tool allows you to adjust your account settings and logout from the application.
 
@@ -128,6 +128,6 @@ The top right of the menu bar provides an account management tool. The tool allo
 
 **User Management:** Users can be assigned to several roles. Each role has different functionality within the application.
 
-![User Management](/images/img/usermanagement.png)
+![User Management](/primeplow-help/images/img/usermanagement.png)
 
 **Logout:** Click here to logout of the application.
