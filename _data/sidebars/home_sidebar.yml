@@ -2,21 +2,59 @@
 
 entries:
 - title: Sidebar
-  levels: one
+  product: Prime Plow
+  version:
   folders:
 
-  - title: Products
+  - title: Introduction
     output: web
     folderitems:
-    - title: News
-      url: /news.html
+
+    - title: Introduction
+      url: /index.html
       output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
+    - title: Log In
+      url: /index.html#log-in
       output: web
-    - title: Product 1
-      url: /p1_landing_page.html
+
+  - title: Map
+    output: web
+    url: /map.html
+    folderitems:
+
+    - title: Map Overview
+      url: /map.html#map-overview
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: Map Tools & Basic Navigation
+      url: /map.html#map-tools--basic-navigation
+      output: web
+    - title: Live Vehicles
+      url: /map.html#live-vehicles
+      output: web
+    - title: Historical Vehicles
+      url: /map.html#historical-vehicles
+      output: web
+    - title: Live Streets
+      url: /map.html#live-streets
+      output: web
+    - title: Historic Streets
+      url: /map.html#historic-streets
+      output: web
+
+  - title: Dashboard
+    output: web
+    url: /dashboard.html
+    folderitems:
+
+    - title: Dashboard Overview
+      url: /dashboard.html#dashboard-overview
+      output: web
+    - title: Event Management
+      url: /dashboard.html#event-management
+      output: web
+    - title: Vehicles
+      url: /dashboard.html#vehicles
+      output: web
+    - title: Messages
+      url: /dashboard.html#messages
       output: web
