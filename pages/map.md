@@ -1,7 +1,7 @@
 ---
 title: Map
 tags:
-keywords: map, basic navigation, zoom, address search, basemap, styles, vehicles, filters
+keywords: map, navigation, zoom, address search, basemap, styles, vehicles, filters
 #last_updated: November 30, 2017
 summary:
 sidebar: home_sidebar

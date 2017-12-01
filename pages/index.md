@@ -1,7 +1,7 @@
 ---
 title: Introduction and Log In
 tags:
-keywords: introduction, login, logging in
+keywords: introduction, login
 #last_updated: November 30, 2017
 #summary: "Introduction to PrimePlow"
 sidebar: home_sidebar

@@ -1,7 +1,7 @@
 ---
 title: Dashboard
 tags:
-keywords: events, activity, messages, weather, routes, new event, end event, add vehicle, change status, delete vehicle, remove vehicle, account
+keywords: events, activity, messages, weather, routes, vehicle, status, account
 #last_updated: November 30, 2017
 summary:
 sidebar: home_sidebar
