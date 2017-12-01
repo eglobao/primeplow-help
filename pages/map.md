@@ -19,13 +19,13 @@ The map provides four ways to view vehicle information:
 
 After logging in the map will default to the Live Vehicles view. To switch between the map views and access other features of Prime Plow, click on the menu bar in the top left.
 
-![Menu Bar Switch](/images/img/menu-bar-switch03.gif)
+![Menu Bar Switch](images/img/menu-bar-switch03.gif)
 
 ## Map Tools & Basic Navigation
 
 The map view is highly interactive. Standard map navigation with mouse and keyboard as well as touch gestures on a tablet are supported.
 
-![Map tools and basic navigation](/images/img/maptools-basicnav.png)
+![Map tools and basic navigation](images/img/maptools-basicnav.png)
 * **Pan** the map by clicking / tapping and dragging the map.
 * **Zoom in / out** on the map by using a mouse scroll wheel or “pinch to zoom”.
 * **Click / Tap** on street centerlines to view detailed street information (street name, priority, and last treated time stamp).
@@ -48,7 +48,7 @@ Live vehicle view provides a real-time view of every vehicle included in your fl
     * i.e. Click Plow to only see plows in the map.
     * i.e. Click Sweeper to only see sweepers in the map.
 
-![Live Vehicles](/images/img/livevehicles.png)
+![Live Vehicles](images/img/livevehicles.png)
 
 **Other notes:**
 
@@ -56,7 +56,7 @@ Live vehicle view provides a real-time view of every vehicle included in your fl
 * Live vehicle breadcrumbs are styled in the map based on their category and whether they are moving or idle.
 * Live vehicles that are treating (i.e. plow down, spreader on, brush on) will be highlighted with a yellow circle.
 
-![Other Notes](/images/img/other-notes.png)* * *
+![Other Notes](images/img/other-notes.png)* * *
 
 ## Historical Vehicles
 
@@ -66,7 +66,7 @@ The historical vehicle view provides tools to search for vehicle breadcrumbs cap
 * You can combine filters to find specific breadcrumbs of interest.
 * Breadcrumb searches are limited to 10,000 records. If you select a large amount of breadcrumbs you will receive the first 10,000 breadcrumbs that meet your criteria.
 
-![Historical Search Date Pickers](/images/img/historical_search_date_pickers.gif)
+![Historical Search Date Pickers](images/img/historical_search_date_pickers.gif)
 
 ### Date Filter
 The date filter is required for **_all_** historical searches.
@@ -76,7 +76,7 @@ The date filter is required for **_all_** historical searches.
 * You can also type in a date and time using your keyboard.
 * Click Fetch to run your search filter.
 
-![Historical Vehicle Filter](/images/img/historical_vehicle_filter02.gif)
+![Historical Vehicle Filter](images/img/historical_vehicle_filter02.gif)
 
 ### Vehicle Filter
 The vehicle filter allows you to filter your search for specific vehicles, vehicle groups, or vehicle makes.
@@ -85,7 +85,7 @@ The vehicle filter allows you to filter your search for specific vehicles, vehic
 * Any vehicle with a check-mark will be included in your search results.
 * Click Fetch to run your search filter.
 
-![Historical Location Filter](/images/img/historical_locationfilter_01.gif)
+![Historical Location Filter](images/img/historical_locationfilter_01.gif)
 
 ### Location Filter
 The location filter allows you to search for breadcrumbs within a specific area in the map. You can draw a box on the map or draw a polygon on the map using the following options.
@@ -101,7 +101,7 @@ Click Fetch to retrieve vehicles within your search area.
 
 The live streets view allows you to highlight specific routes and view summary route statistics for each route. This function is **_only _** available during an active snow event. Please view the event management help section for more information on starting and stopping snow events.
 
-![Live Streets](/images/img/livestreets.png)
+![Live Streets](images/img/livestreets.png)
 
 * Click on a route from the action panel to pan the map and highlight the segments that belong to the route.
 * Review the route statistics (number of passes, percent complete, last treated time stamp.
@@ -129,7 +129,7 @@ The vehicle filter allows you to filter your search for specific routes.
 * Any route included in your list will be returned by your search (if activity is present).
 * Click Fetch to run your search.
 
-![Historical Routes](/images/img/historical_routes.gif)
+![Historical Routes](images/img/historical_routes.gif)
 
 ### Location Filter
 The location filter allows you to search for route based activity with within a specific area in the map. You can draw a box or a polygon on the map.
